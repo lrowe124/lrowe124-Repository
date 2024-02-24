@@ -1,0 +1,25 @@
+body {
+  background-color:#ffffff;
+  {font-family: 'Roboto', sans-serif;
+}
+}
+h1{
+  font-family: 'Cute Font', sans-serif;
+  color: blueviolet;
+}
+
+
+.headbox {
+  background-color: lightgoldenrodyellow;
+  padding: 5px;
+  text-align: center;
+}
+
+td{
+color: blueviolet;
+padding: 20px;
+text-align: center;
+}
+
+
+/* COMMENT */
