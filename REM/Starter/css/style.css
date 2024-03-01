@@ -1,0 +1,32 @@
+body {
+  background-color:#ffffff;
+}
+
+.headbox {
+  background-color: #e9cb20;
+  padding: 20px;
+}
+  .poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.bodybox {
+  background-color: #f4f4f4;
+  padding: 20px;
+
+  .poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.sidebar {
+  width: 400px;
+  float: right;
+  background-color: #666666;
+  margin: 0 0 0 20px;
+  color: #ffffff;
+
+}
