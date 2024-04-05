@@ -1,0 +1,42 @@
+body {
+	background-color:#111633;
+}
+
+.text {
+font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  font-style: normal;
+ color: #87804F;
+}
+
+img  {
+width: 270px;
+height: 200px;
+
+}
+
+.titles  {
+font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  font-style: normal
+}
+
+.headbox {
+background-color:#BFBEB7;
+
+}
+
+.pullquote  {
+	background-color:#87804F;
+	font-size:1.25rem;
+	color:#111633;
+	font-weight:600;
+}
+.caption  {
+	font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+  font-style: normal
+}
