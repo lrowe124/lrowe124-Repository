@@ -1,0 +1,37 @@
+body {
+  background-color:#e57662;
+  color: #020024;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.ubuntu-regular {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+}
+
+h2 {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+
+
+}
+
+.caption {
+  font-size: 12px;
+}
+
